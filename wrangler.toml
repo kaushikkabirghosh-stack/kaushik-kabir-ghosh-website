@@ -1,0 +1,5 @@
+name = "silent-base-b6e4"
+compatibility_date = "2026-10-05"
+
+[assets]
+directory = "."
